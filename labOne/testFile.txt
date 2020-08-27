@@ -1,0 +1,7 @@
+this is a test
+
+This file was written in Vim. 
+
+I am new to Vim.
+
+
